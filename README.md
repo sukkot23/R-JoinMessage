@@ -6,8 +6,10 @@ Name : R-JoinMessage
 Version : 1.0.0
 MC-Version : 1.16.4
 Update : 2021. 01. 06
-``` 
+```
+
 </br>
+
 ```
 - 본 플러그인은 Spigot API에 의해 GPLv3 라이선스를 사용하고 있습니다
 - 본 플러그인을 파일형태로 공유 및 배포하는 것을 금지합니다
@@ -18,11 +20,15 @@ Update : 2021. 01. 06
 
 https://github.com/sukkot23/R-JoinMessage
 ```
+
 </br>
+
 ## 플러그인 설명서
 ```
 R-JoinMessage 폴더내의 config.yml 파일을 수정합니다
 ```
+
+</br>
 
 ## Configuration
 ```
