@@ -1,5 +1,5 @@
 # 마인크래프트 '메세지 플러그인'
-[![GitHub all releases](https://img.shields.io/github/downloads/sukkot23/R-JoinMessage/total?color=mint&style=plastic)](https://github.com/sukkot23/R-JoinMessage/releases/download/1.0.0_1.16.4/R-JoinMessage-1.16.4.jar)
+![GitHub all releases](https://img.shields.io/github/downloads/sukkot23/R-JoinMessage/total?color=mint&style=plastic)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsukkot23%2FR-JoinMessage&count_bg=%23597ED0&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=View&edge_flat=false)](https://hits.seeyoufarm.com)
 ## 플러그인 정보
 ```
