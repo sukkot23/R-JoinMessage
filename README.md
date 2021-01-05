@@ -26,7 +26,9 @@ https://github.com/sukkot23/R-JoinMessage
 
 ## 플러그인 설명서
 ```
-R-JoinMessage 폴더내의 config.yml 파일을 수정합니다
+입장(Join), 퇴장(Left), 강퇴(Kick), MOTD(Message Of The Day) 메세지를 변경해주는 플러그인 입니다
+
+ 사용 : R-JoinMessage 폴더내의 config.yml 파일을 수정합니다
 ```
 
 </br>
