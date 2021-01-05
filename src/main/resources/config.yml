@@ -4,10 +4,10 @@ setting:
   print-kickMessage: true
 
 messages:
-  first-join: "&d%player% join the game for the first time"
-  join: "&e%player% joined the game"
-  left: "&e%player% left the game"
-  kick: "&f%player% kicked the game \n&c reason: %reason%"
+  first-join: "&d`PLAYER` join the game for the first time"
+  join: "&e`PLAYER` joined the game"
+  left: "&e`PLAYER` left the game"
+  kick: "&f`PLAYER` kicked the game \n&c reason: `REASON`"
 
 motd:
   line1: "&7A Minecraft Server"
