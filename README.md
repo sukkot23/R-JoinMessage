@@ -58,4 +58,5 @@ motd:
 ```
 
 </br>
+
 [![GitHub all releases](https://img.shields.io/github/downloads/sukkot23/R-JoinMessage/total?color=83BD17&label=DOWNLOAD&style=for-the-badge)](https://github.com/sukkot23/R-JoinMessage/releases/download/1.0.0_1.16.4/R-JoinMessage-1.16.4.jar)
